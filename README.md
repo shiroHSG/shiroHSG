@@ -1,7 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=${waving}&color=auto&height=${200}&section=header&text={HelloWorld!%20!🥳}&fontSize=${50}&animation=${twinkling})
+![header](https://capsule-render.vercel.app/api?type=${Speech}&color=auto&height=${200}&section=header&text=Java_Backend%20&fontSize=${50}&animation=${twinkling})
 
 
-## Hi there 👋
+
+## Hello
 
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shiroHSG)](https://github.com/anuraghazra/github-readme-stats)
 
