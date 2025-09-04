@@ -25,7 +25,7 @@
 <p align="center">
   <a href="https://github.com/네깃허브닉네임">
     <img align="center" 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiroHSG&layout=compact&show_icons=true&theme=dark&hide_title=false&hide=jupyter%20notebook,Dart" />
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiroHSG&layout=compact&show_icons=true&theme=dark&hide_title=false&hide=HTML,jupyter%20notebook,Dart" />
   </a>
 </p>
 
