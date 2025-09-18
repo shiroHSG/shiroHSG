@@ -23,7 +23,7 @@
 
 <h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">
-  <a href="https://github.com/네깃허브닉네임">
+  <a href="https://github.com/shiroHSG">
     <img align="center" 
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiroHSG&layout=compact&show_icons=true&theme=dark&hide_title=false&hide=HTML,jupyter%20notebook,Dart" />
   </a>
@@ -31,7 +31,7 @@
 
 <h3 align="center">💡 My Git Stats 💡</h3>
 <p align="center">
-  <a href="https://github.com/네깃허브닉네임">
+  <a href="https://github.com/shiroHSG">
     <img align="center" 
          src="https://github-readme-stats.vercel.app/api?username=shiroHSG&show_icons=true&include_all_commits=true&theme=dark&hide_title=false&hide=prs,issues" />
   </a>
