@@ -25,7 +25,7 @@
 <p align="center">
   <a href="https://github.com/shiroHSG">
     <img align="center" 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiroHSG&layout=compact&show_icons=true&theme=dark&hide_title=false&hide=HTML,jupyter%20notebook,Dart" />
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiroHSG&layout=compact&show_icons=true&theme=dark&hide_title=false&hide=HTML,jupyter%20notebook,Dart&cache_seconds=1800" />
   </a>
 </p>
 
@@ -33,7 +33,7 @@
 <p align="center">
   <a href="https://github.com/shiroHSG">
     <img align="center" 
-         src="https://github-readme-stats.vercel.app/api?username=shiroHSG&show_icons=true&include_all_commits=true&theme=dark&hide_title=false&hide=prs,issues" />
+         src="https://github-readme-stats.vercel.app/api?username=shiroHSG&show_icons=true&include_all_commits=true&theme=dark&hide_title=false&hide=prs,issues&cache_seconds=1800" />
   </a>
 </p>
 
