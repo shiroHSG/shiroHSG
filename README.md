@@ -29,6 +29,7 @@
   </a>
 </p>
 
+<!--
 <h3 align="center">💡 My Git Stats 💡</h3>
 <p align="center">
   <a href="https://github.com/shiroHSG">
@@ -36,6 +37,7 @@
          src="https://github-readme-stats.vercel.app/api?username=shiroHSG&show_icons=true&include_all_commits=true&theme=dark&hide_title=false&hide=prs,issues&cache_seconds=1800" />
   </a>
 </p>
+-->
 
 
 <!--
